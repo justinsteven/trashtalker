@@ -21,6 +21,8 @@ Bet you can't.
 
 # Writeups
 
+* [lxb](https://github.com/0x6c7862/ctf-writeups/blob/master/trashtalker.md)
+
 Have you published a writeup? Message me somehow (e.g. I'm [@justinsteven](https://twitter.com/justinsteven) on Twitter) and I'll add it here!
 
 # Warning - this binary is unintentionally vulnerable to a remote memory corruption bug
